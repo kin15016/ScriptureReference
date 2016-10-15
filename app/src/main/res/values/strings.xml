@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scripture Reference</string>
+    <string name="label_main">Enter Scripture Reference</string>
+    <string name="hint_book">Book</string>
+    <string name="hint_chapter">Chapter</string>
+    <string name="hint_verse">Verse</string>
+    <string name="label_book">Book: </string>
+    <string name="label_chapter">Chapter: </string>
+    <string name="label_verse">Verse: </string>
+    <string name="button_share">Share</string>
+</resources>
